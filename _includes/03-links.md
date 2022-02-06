@@ -1,2 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
-https://lab.github.com/githubtraining/communicating-using-markdown
+http://github.com
